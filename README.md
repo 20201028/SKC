@@ -1,4 +1,4 @@
-Here is the source code of paper *Skyline Keyword-Aware Community Search on Semantic and Structure*
+Here is the source code of paper *Keyword-Aware Skyline Community Search on Semantics and Structure*
 
 ### Example of compiling and running (Linux)
 
