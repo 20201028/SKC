@@ -1,5 +1,7 @@
 Here is the source code of paper *Keyword-Aware Skyline Community Search on Semantics and Structure*
+
 File "rKACS-main.zip" is the comparison algorithm downloaded from author's homepage.
+
 ### Example of compiling and running (Linux)
 
 Before running, you should:
@@ -18,6 +20,7 @@ $ main "bk" "0" "3" "l" "3"
 # "l" is the type of attribute, where "i" is the textual attribute, and "l" is the locational attribute 
 # "3" is the k value
 ```
+
 
 
 
