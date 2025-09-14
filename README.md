@@ -1,5 +1,8 @@
 Here is the source code of paper *Keyword-Aware Skyline Community Search on Semantics and Structure*
 
+Files extracG.py and extractAtt.py are the code for extracting X%*|V| subgraph
+Files large_graph_gen.py and large_attribute_gen.py are the code for generating X * |V| large-scale graphs
+
 ### Example of compiling and running (Linux)
 
 Before running, you should:
@@ -18,6 +21,7 @@ $ main "bk" "0" "3" "l" "3"
 # "l" is the type of attribute, where "i" is the textual attribute, and "l" is the locational attribute 
 # "3" is the k value
 ```
+
 
 
 
